@@ -18,11 +18,13 @@ A estrutura do projeto é simples e organizada para facilitar a compreensão e m
 
 ## Como Utilizar
 Clone o repositório:
+bash
+Copiar código
 git clone https://github.com/seu-usuario/treine-me.git
-
 Navegue até o diretório do projeto:
+bash
+Copiar código
 cd treine-me
-
 Abra o arquivo index.html no seu navegador.
 
 ## Contribuição
